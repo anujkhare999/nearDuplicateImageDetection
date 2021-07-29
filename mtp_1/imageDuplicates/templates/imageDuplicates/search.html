@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    {%load static%}
+    <link  href="{% static 'imageDuplicates/style.css' %}" rel="stylesheet" >
+</head>
+<body>
+    <h1>All the related queries</h1>
+    {% if allQuestion %}
+        <ul>
+            {% for question in allQuestion %}
+                <li>
+                    <a href="{% url 'imageDuplicates:detail' question.id %}">{{question.question_text}}</a>
+                </li>
+            {% endfor %}    
+        </ul>
+    {% else %} 
+        <p> No options are available.</p>
+    {% endif %} 
+</body>
+</html>

@@ -1,0 +1,7 @@
+cat,https://fosterpetoutreach.org/wp-content/uploads/2020/05/cats.jpg,method1
+cat,https://i.natgeofe.com/n/f0dccaca-174b-48a5-b944-9bcddf913645/01-cat-questions-nationalgeographic_1228126.jpg,method2
+cat,https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png,method3
+cat,https://cdn.britannica.com/22/206222-131-E921E1FB/Domestic-feline-tabby-cat.jpg,method4
+dog,https://media.nature.com/lw800/magazine-assets/d41586-020-01430-5/d41586-020-01430-5_17977552.jpg,method1
+dog,https://www.cesarsway.com/wp-content/uploads/2020/08/Screen-Shot-2020-08-28-at-7.54.31-AM.png,method2
+dog,https://thumbs-prod.si-cdn.com/Q70MTW0QP4g7kpVoyG3xQn57tQI=/800x600/filters:no_upscale()/https://public-media.si-cdn.com/filer/ad/7b/ad7b3860-ad5f-43dc-800e-af57830cd1d3/labrador.jpg,method3
